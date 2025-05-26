@@ -60,7 +60,6 @@ movie-recommendation-system/
 These plots are generated using **Plotly** and are fully interactive in the notebook.
 
 ---
-
 ## 🎯 Recommender Systems Implemented
 
 ### 1️⃣ Popularity-Based Recommender
@@ -76,7 +75,6 @@ These plots are generated using **Plotly** and are fully interactive in the note
 - Output: Personalized movie recommendations based on user similarity
 
 ---
-
 ## 🏃‍♂️ Getting Started
 
 1️⃣ Clone this repository:
@@ -92,21 +90,7 @@ The data used in this project comes from the [MovieLens dataset](https://grouple
 
 ---
 
-## 🎯 Recommender Systems Implemented
 
-### 1️⃣ Popularity-Based Recommender
-- Input: Genre, Minimum number of reviews, Number of recommendations
-- Output: Top-rated movies in the selected genre
-
-### 2️⃣ Content-Based Recommender
-- Input: Movie title, Number of similar movies to recommend
-- Output: Similar movies based on genre similarity using TF-IDF and Cosine Similarity
-
-### 3️⃣ Collaborative Filtering Recommender
-- Input: User ID, Number of similar users (K), Number of recommendations
-- Output: Personalized movie recommendations based on user similarity
-
----
 
 - Key Highlights
   
@@ -139,8 +123,7 @@ See the LICENSE file for full details.
 
 Edureka Data Science with SQL Learner
 
-Connect on LinkedIn www.linkedin.com/in/
-sravya-togarla
+Connect on LinkedIn www.linkedin.com/in/sravya-togarla
 
 
 ---
