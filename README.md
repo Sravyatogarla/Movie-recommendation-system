@@ -163,4 +163,6 @@ This couse covers following topics :
 
 ---
 ✅ Conclusion
+
+
 This Movie Recommendation System demonstrates how data science can enhance user experience through personalized content discovery. With practical implementations of popularity-based, content-based, and collaborative filtering models, this project bridges the gap between learning and real-world applications.
