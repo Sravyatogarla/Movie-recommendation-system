@@ -103,7 +103,8 @@ The data used in this project comes from the [MovieLens dataset](https://grouple
 4.Real-world application of data science concepts from the **Edureka Data Science with SQL** course
 
 ---
-Future Enhancements
+- Future Enhancements
+
 Add advanced collaborative filtering (SVD, matrix factorization)
 
 Build a web-based interface using Streamlit or Flask
@@ -113,7 +114,8 @@ Incorporate user feedback for dynamic recommendations
 
 ---
 
-License
+- License
+
 This project is licensed under the MIT License.
 See the LICENSE file for full details.
 
