@@ -136,12 +136,12 @@ See the LICENSE file for full details.
 
 ---
 👨‍💻 Author
-Sravya Togarla
+**Sravya Togarla**
 
 Edureka Data Science with SQL Learner
 
-Connect on LinkedIn (www.linkedin.com/in/
-sravya-togarla)
+Connect on LinkedIn www.linkedin.com/in/
+sravya-togarla
 
 
 ---
