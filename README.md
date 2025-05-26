@@ -27,6 +27,18 @@ Interactive inputs and colorful visualizations make it easy to experiment with d
 The goal of this project is to apply data science techniques to create personalized content discovery systems, similar to platforms like Netflix or Prime Video.
 
 ---
+## 🛠️ Tools Used
+
+- **Python**: Programming language
+- **Jupyter Notebook**: Interactive coding environment
+- **Pandas**: Data manipulation and analysis
+- **NumPy**: Numerical computing
+- **scikit-learn**: Machine learning models and similarity computations
+- **Plotly**: Interactive data visualizations
+- **MovieLens Dataset**: Real-world dataset for movies and ratings
+- **SQL** (Course Context): While this project uses CSVs, concepts from **SQL querying and data extraction** are applied as part of the Edureka Data Science with SQL course
+
+---
 
 ## 📂 Project Structure
 
