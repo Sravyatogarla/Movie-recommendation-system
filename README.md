@@ -80,7 +80,6 @@ These plots are generated using **Plotly** and are fully interactive in the note
 ## 🏃‍♂️ Getting Started
 
 1️⃣ Clone this repository:
-```bash
 git clone https://github.com/Sravyatogarla/Movie-recommendation-system.git
 
 ---
